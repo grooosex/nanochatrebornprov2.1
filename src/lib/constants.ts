@@ -228,4 +228,4 @@ export const RECENT_TURNS = 20;
 export const IMAGE_GEN_TIMEOUT_MS = 120_000;
 export const IMAGE_DRAW_TIMEOUT_MS = 600_000;
 export const NAI_HOP_TIMEOUT_MS = 20_000;
-export const NAI_POLL_MS = 10_000;
+export const NAI_POLL_MS = 1_000;
